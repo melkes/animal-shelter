@@ -1,8 +1,8 @@
-# _{Animal Shelter Site}_
+# _Animal Shelter Site_
 
-#### By _**{Mike Wilkes}**_
+#### By _**Mike Wilkes**_
 
-#### _{Web site with adoptable pet listings}_
+#### _Web site with adoptable pet listings_
 
 ## Technologies Used
 

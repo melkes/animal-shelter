@@ -1,17 +1,18 @@
 body {
     background-color: rgb(223, 247, 228);
     font-family: Arial, Helvetica, sans-serif;
-
+    
   }
-  body h1 {    margin: 0 0 0 10px;
+  body h1 {    margin: 0 0 25px 10px;
   }
 
-.listing {
+.column {
+    float:left;
     margin: 0 10px 0 10px;
     column-gap: 40px;
     column-rule: 1px solid rgb(224, 224, 224);
   }
-  .listing h2 {}
+  .column h2 {}
 
  
     .p1 {
