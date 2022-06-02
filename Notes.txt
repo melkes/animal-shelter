@@ -1,0 +1,17 @@
+Page structure
+
+title: Animal Shelter
+
+h1 available pets!
+
+Div: column column column
+
+Div: Contact info:
+
+
+names
+
+Cheeto Archie Method Man
+Churchill Yuki Babushka 
+Luigi Tater Tot
+
